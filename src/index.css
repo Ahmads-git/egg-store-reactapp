@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-card{
+  @apply flex flex-col justify-center items-center bg-white h-screen font-mono py-40;
+}
+
+.inputStyle{
+  @apply my-1 px-4 py-1 border-2 border-yellow-500 rounded-md w-full;
+}
+
+#open-menu{
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+  transition: all .35s;
+  border-bottom: 4px solid black;
+}
+
+.close-menu{
+  transform: translateY(-100%) ;
+}
+
+.chef-disc{
+  max-width: 400px;
+}
+
+.chef-pic-container{
+  height: 500px;
+  width: 333px;
+}
+
+
+
+::-webkit-scrollbar {
+width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: rgb(234, 179, 8);
+transition: all .3;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: rgb(247, 214, 49);
+}

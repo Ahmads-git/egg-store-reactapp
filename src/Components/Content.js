@@ -7,7 +7,7 @@ export default function Content() {
     return (
         <div className='h-full'>
             <div className='menu-card'>
-                <img src={imageOne} className='h-full rounded mb-20 shadow'/>
+                <img src={imageOne} alt='The eggilicious meal' className='h-full rounded mb-20 shadow'/>
                 <div className='flex flex-col justify-center items-center'>
                     <h2 className='text-2xl mb-2'>
                         Egg Muffins
@@ -23,7 +23,7 @@ export default function Content() {
             </div>
 
             <div className='menu-card'>
-                <img src={imageTwo} className='h-full rounded mb-20 shadow'/>
+                <img src={imageTwo} alt='The eggilicious meal' className='h-full rounded mb-20 shadow'/>
                 <div className='flex flex-col justify-center items-center'>
                     <h2 className='text-2xl mb-2'>
                         Eggy Burger

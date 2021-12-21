@@ -7,7 +7,6 @@ import About from './Pages/About';
 import Menu from './Pages/Menu';
 import Dropdown from './Components/Dropdown';
 import Contact from './Pages/Contact';
-import PageNotFound from './Pages/PageNotFound';
 
 
 function App() {
@@ -26,7 +25,7 @@ function App() {
         <Route path='/about' element={<About />} />
         <Route path='/menu' element={<Menu/>} />
         <Route path='/contact' element={<Contact />} />
-        <Route path='*' element={<PageNotFound />} />
+        <Route path='*' element={<Home />} />
       </Routes> 
       <Footer />
     </div>

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/egg-store-reactapp/static/css/main.22a7e5f6.css",
-    "main.js": "/egg-store-reactapp/static/js/main.328fae0d.js",
+    "main.css": "/egg-store-reactapp/static/css/main.f592c18c.css",
+    "main.js": "/egg-store-reactapp/static/js/main.f30769cb.js",
     "static/js/787.b42082f6.chunk.js": "/egg-store-reactapp/static/js/787.b42082f6.chunk.js",
     "static/media/egg-1.jpg": "/egg-store-reactapp/static/media/egg-1.b3e9a175b99d65a3bfa0.jpg",
     "static/media/egg-2.jpg": "/egg-store-reactapp/static/media/egg-2.2fac23b5a5a97f280b2e.jpg",
     "static/media/the-egg-chef.jpg": "/egg-store-reactapp/static/media/the-egg-chef.02e5c7815bcf02ae0f99.jpg",
     "index.html": "/egg-store-reactapp/index.html",
-    "main.22a7e5f6.css.map": "/egg-store-reactapp/static/css/main.22a7e5f6.css.map",
-    "main.328fae0d.js.map": "/egg-store-reactapp/static/js/main.328fae0d.js.map",
+    "main.f592c18c.css.map": "/egg-store-reactapp/static/css/main.f592c18c.css.map",
+    "main.f30769cb.js.map": "/egg-store-reactapp/static/js/main.f30769cb.js.map",
     "787.b42082f6.chunk.js.map": "/egg-store-reactapp/static/js/787.b42082f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a7e5f6.css",
-    "static/js/main.328fae0d.js"
+    "static/css/main.f592c18c.css",
+    "static/js/main.f30769cb.js"
   ]
 }
